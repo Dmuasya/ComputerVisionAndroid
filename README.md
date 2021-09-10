@@ -17,18 +17,6 @@ powered by Tensorflow, a Deep Learning library developed by Google.
 <br>
 <br>
 
-### Some inferences
-
-<br>
-<p align="center">
-
-
-  
-  </p>
-<br>
-<br>
-
-
 ## Installation
 
 Clone the repo and open in Android Studio to study the code.
