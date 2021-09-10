@@ -24,12 +24,12 @@ Clone the repo and open in Android Studio to study the code.
 Build APK with gradle to run on your Android device.
 
 
-``git clone https://github.com/learningdollars/martink-android-image-recognition-computer-vision.git ``
+``git clone https://github.com/Dmuasya/ComputerVisionAndroid.git ``
 
 ``Open the project folder in Android Studio``
 
 
 ## Author
 
-MartinK https://www.learningdollars.com/freelancer/profile/?erid=martink1
+Dmuasya https://www.dmuasya.site
 
