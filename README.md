@@ -31,5 +31,5 @@ Build APK with gradle to run on your Android device.
 
 ## Author
 
-Dmuasya https://www.dmuasya.site
+Dmuasya http://www.dmuasya.site
 
